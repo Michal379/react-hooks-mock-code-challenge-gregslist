@@ -18,7 +18,11 @@ function ListingCard({ listing, onDelete }) {
     <li className="card">
       <div className="image">
         <span className="price">${price}</span>
-        <img src={image} alt={description} />
+        {image ? (
+          <img src={image} alt={description} />
+        ) : (
+          <span className="no-image">No Image</span>
+        )}
       </div>
       <div className="details">
         <button

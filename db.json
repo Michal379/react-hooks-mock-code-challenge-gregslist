@@ -29,6 +29,20 @@
       "description": "Treadmill Parts For Free",
       "image": "./images/treadmill.jpg",
       "location": "East Flatbush"
+    },
+    {
+      "price": "15000",
+      "image": "https://i.pinimg.com/564x/5d/76/43/5d764397386c3d64ce17959e71c54628.jpg",
+      "description": "pretty stuffed piggy toys",
+      "location": "Azerbaijhan",
+      "id": 8
+    },
+    {
+      "price": "4580",
+      "image": "https://i.pinimg.com/236x/0b/bc/a6/0bbca6b5ec2c502b2e5a1515c91f4c30.jpg",
+      "description": "treasure box",
+      "location": "Kazakhstan",
+      "id": 9
     }
   ]
 }
